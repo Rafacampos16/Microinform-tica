@@ -1,2 +1,2 @@
-# Microinform-tica
+# Microinformatica
 Aulas de microinformática
